@@ -1,0 +1,11 @@
+{
+  "covid": "Covid-19",
+  "spread_statistics": "Spread Statistics",
+  "total_cases": "Total",
+  "deaths": "Deaths",
+  "new_confirmed": "New Cases",
+  "vew_more": "View All",
+  "sort_by": "Sort By:",
+  "recovered": "Recovered",
+  "all_country_cases": "All Country Cases"
+}
