@@ -2,7 +2,7 @@
 
 A small app to show current active covid-19 cases in countries.
 
-<img src="covid_video.webm" alt="demo" width="60%"/>
+<img src="covid_video.mp4" alt="demo" width="60%"/>
 
 
 ## Main technologies used
